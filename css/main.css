@@ -1,0 +1,21 @@
+p{
+	background-color: white;
+	border-style: dashed;
+	height: 40px;
+	text-align: center;
+	margin: 0px;/*Empuja hacia afuera*/
+}
+div div div{
+	background-color: green;
+	padding: 40px 20px 70px 100px; /*empuja hacia adentro*/
+	}
+div div{
+	background-color: purple;
+	padding: 20px 10px;
+	}
+
+div{
+	background-color: grey;
+	padding: 120px 60px 30.5px 60px;
+
+}
